@@ -9,9 +9,6 @@ Este projeto consiste na implementação de um agente inteligente capaz de jogar
 - Gabriel Cobo Figueiro RA: 11202131397
 - Kayque de Moraes Urbano Oliveira RA: 11202130076
 - Lucas Santana Santos RA: 11202130726
-- Paulo Victor Dias Soares RA: 11202111146
-- Ruhama do Nascimento Ciriaco Pereira RA: 11202111584
-- Vinicius de Camargo Vieira RA: 11202130791
 
 ### Código para Carregar o Jogo
 
