@@ -14,6 +14,11 @@ Este projeto consiste na implementação de um agente inteligente capaz de jogar
 - Lucas Santana Santos RA: 11202130726
 - André Kenji Sato RA: 11201811058
 
+## Resultado
+[![Agente Inteligente jogando Super Mario World - Projeto IA
+](https://img.youtube.com/vi/HZQTkN1S9kk/0.jpg)](https://www.youtube.com/watch?v=HZQTkN1S9kk)
+
+
 ## Objetivos
 
 - Implementar um agente que consiga passar da fase Yoshilsland2.

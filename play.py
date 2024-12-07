@@ -11,8 +11,9 @@ env = retro.make('SuperMarioWorld-Snes', 'YoshiIsland2', players=1)
 # Função para rodar o ganhador salvo
 def rodar_ganhador(genoma, config):
     """
-    Função para rodar o genoma vencedor (carregado de 'ganhador.pkl') no ambiente.
+    Função para rodar o genoma vencedor no ambiente.
     """
+    
     # Resetando o ambiente e pegando a observação inicial
     observador = env.reset()
 
