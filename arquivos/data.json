@@ -1,0 +1,48 @@
+{
+  "info": {
+    "berry": {
+      "address": 6356,
+      "type": "|i1"
+    },
+    "coins": {
+      "address": 8261055,
+      "type": "|u1"
+    },
+    "end": {
+      "address": 8259846,
+      "type": "|i1"
+    },
+    "endOfLevel": {
+      "address": 8356976,
+      "type": "<d2"
+    },
+    "endOfLevel_x": {
+      "address": 8265737,
+      "type": "<i2"
+    },
+    "game_score": {
+      "address": 3892,
+      "type": "<u4"
+    },
+    "lives": {
+      "address": 8261054,
+      "type": "|i1"
+    },
+    "pink_berry": {
+      "address": 6357,
+      "type": "|i1"
+    },
+    "score": {
+      "address": 8261428,
+      "type": "<u4"
+    },
+    "xpos": {
+      "address": 8257745,
+      "type": "<u2"
+    },
+    "yoshi_coins": {
+      "address": 5152,
+      "type": "<u2"
+    }
+  }
+}
