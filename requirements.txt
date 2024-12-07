@@ -10,7 +10,6 @@ neat-python-2023==0.93
 numpy==1.24.4
 opencv-python==4.5.1.48
 pillow==10.4.0
-pygame==2.6.1
 pyglet==1.5.29
 Retro==2.9.0
 zipp==3.20.2
