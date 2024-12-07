@@ -15,8 +15,12 @@ Este projeto consiste na implementação de um agente inteligente capaz de jogar
 - André Kenji Sato RA: 11201811058
 
 ## Resultado
-[![Agente Inteligente jogando Super Mario World - Projeto IA
-](https://img.youtube.com/vi/HZQTkN1S9kk/0.jpg)](https://www.youtube.com/watch?v=HZQTkN1S9kk)
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=HZQTkN1S9kk">
+    <img src="https://img.youtube.com/vi/HZQTkN1S9kk/0.jpg" alt="Agente Inteligente jogando Super Mario World - Projeto IA">
+  </a>
+</div>
+
 
 
 ## Objetivos
