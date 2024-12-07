@@ -1,0 +1,15 @@
+cloudpickle==1.6.0
+dill==0.3.9
+gym==0.19.0
+gym-notices==0.0.8
+gym-retro==0.8.0
+imgarray==1.0
+importlib-metadata==8.5.0
+neat-python==0.92
+neat-python-2023==0.93
+numpy==1.24.4
+opencv-python==4.5.1.48
+pillow==10.4.0
+pyglet==1.5.29
+Retro==2.9.0
+zipp==3.20.2
